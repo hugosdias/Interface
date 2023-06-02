@@ -1,0 +1,15 @@
+/home/hugo/Documentos/dotnet/bin/Debug/net6.0/dotnet
+/home/hugo/Documentos/dotnet/bin/Debug/net6.0/dotnet.deps.json
+/home/hugo/Documentos/dotnet/bin/Debug/net6.0/dotnet.runtimeconfig.json
+/home/hugo/Documentos/dotnet/bin/Debug/net6.0/dotnet.dll
+/home/hugo/Documentos/dotnet/bin/Debug/net6.0/ref/dotnet.dll
+/home/hugo/Documentos/dotnet/bin/Debug/net6.0/dotnet.pdb
+/home/hugo/Documentos/dotnet/obj/Debug/net6.0/dotnet.csproj.AssemblyReference.cache
+/home/hugo/Documentos/dotnet/obj/Debug/net6.0/dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/hugo/Documentos/dotnet/obj/Debug/net6.0/dotnet.AssemblyInfoInputs.cache
+/home/hugo/Documentos/dotnet/obj/Debug/net6.0/dotnet.AssemblyInfo.cs
+/home/hugo/Documentos/dotnet/obj/Debug/net6.0/dotnet.csproj.CoreCompileInputs.cache
+/home/hugo/Documentos/dotnet/obj/Debug/net6.0/dotnet.dll
+/home/hugo/Documentos/dotnet/obj/Debug/net6.0/ref/dotnet.dll
+/home/hugo/Documentos/dotnet/obj/Debug/net6.0/dotnet.pdb
+/home/hugo/Documentos/dotnet/obj/Debug/net6.0/dotnet.genruntimeconfig.cache
