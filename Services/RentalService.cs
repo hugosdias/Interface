@@ -6,7 +6,6 @@ namespace dotnet.Services
     {
         public double PricePerHour { get; private set; }
         public double PricePerDay { get; private set; }
-
         private ITaxService _taxService;
         public RentalService(double pricePerHour, double pricePerDay, ITaxService taxService)
         {
