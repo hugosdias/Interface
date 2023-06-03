@@ -18,6 +18,7 @@ namespace dotnet.Services
             TimeSpan duration = carRental.Finish.Subtract(carRental.Start);
 
             double basicPayment = 0.0;
+            
             if (duration.TotalHours <= 12.0)
             {
                 basicPayment = PricePerHour * Math.Ceiling(duration.TotalHours);
