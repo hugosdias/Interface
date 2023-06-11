@@ -38,7 +38,7 @@ x64/
 *.log
 *.vspscc
 *.vssscc
-.builds
+*.builds
 *.pidb
 *.log
 *.svclog
