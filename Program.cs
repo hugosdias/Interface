@@ -28,5 +28,3 @@ internal class Program
         System.Console.WriteLine(carRental.Invoice);
     }
 }
-
-//teste
